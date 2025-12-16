@@ -5,8 +5,8 @@ This repository contains applied data analysis and visualization projects focuse
 The goal of this repository is to explore how climate and ocean variables—such as storm activity, ocean warming, and atmospheric conditions—interact and impact real communities, particularly in coastal and North American contexts. Emphasis is placed on clear data storytelling, sound methodology, and non-technical interpretability.
 
 ## 📊 Live Dashboard
-👉 View the interactive dashboard here:  
-[https://lookerstudio.google.com/your-link-here](https://lookerstudio.google.com/reporting/ac63e965-eafd-4c2a-a625-389a95a3ed4a)
+👉 View the interactive dashboard here 
+(https://lookerstudio.google.com/s/pGvyv64by2M)
 
 
 📊Current Projects
